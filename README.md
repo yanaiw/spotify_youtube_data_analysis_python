@@ -1,5 +1,5 @@
 # spotify_youtube_data_analysis_python :microphone: :musical_keyboard:
-![spotify](https://fastpng.com/images/file/spotify-logo-dw7m8iuoy0jbk8a0.png)
+![spotify](https://fastpng.com/images/file/spotify-logo-dw7m8iuoy0jbk8a0.png=100x20)
 ![youtube](https://static.tildacdn.com/tild6631-6331-4366-b233-656132353637/youtubeblack.jpeg)
 ____
 ![version](https://img.shields.io/pypi/v/pandas?color=red)

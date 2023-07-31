@@ -1,7 +1,9 @@
 # spotify_youtube_data_analysis_python :microphone: :musical_keyboard:
 <div align="center">
-  <img src="https://fastpng.com/images/file/spotify-logo-dw7m8iuoy0jbk8a0.png" alt="" width=320>
-  <img src="https://static.tildacdn.com/tild6631-6331-4366-b233-656132353637/youtubeblack.jpeg" alt="" width=320>
+  <img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-attempts-clarify-lack-google-cast-support-13.png" alt="" width=320>
+  <img src="https://w7.pngwing.com/pngs/362/340/png-transparent-youtube-logo-streaming-media-youtube-logo-television-text-trademark.png" alt="" width=320>
+
+</div>
 ____
 ![version](https://img.shields.io/pypi/v/pandas?color=red)
 ![version](https://img.shields.io/pypi/v/numpy?color=red)

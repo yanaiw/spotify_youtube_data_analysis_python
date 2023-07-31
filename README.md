@@ -1,7 +1,12 @@
-# spotify_youtube_data_analysis_python :microphone: :musical_keyboard:
+<div align="center">
+  # spotify_youtube_data_analysis_python :microphone: :musical_keyboard:
   <img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-attempts-clarify-lack-google-cast-support-13.png" alt="" width=320>
   <img src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" alt="" width=320>
+
+</div>
 ____
+
+
 ![version](https://img.shields.io/pypi/v/pandas?color=red)
 ![version](https://img.shields.io/pypi/v/numpy?color=red)
 *spotify_youtube_data_analysis* - this is the Jupyter notebook, which allows you to analyse the information from two sorces and make conclusions, find profitable insights.

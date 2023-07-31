@@ -7,10 +7,8 @@
 ![version](https://img.shields.io/pypi/v/pandas?color=red)
 ![version](https://img.shields.io/pypi/v/numpy?color=red)
 
-
 ____
 </div>
-
 
 *spotify_youtube_data_analysis* - this is the Jupyter notebook, which allows you to analyse the information from two sorces and make conclusions, find profitable insights.
 
@@ -19,5 +17,5 @@ ____
 - features of music (for instance, dancebility, loudness and so on);
 - views, likes, descriptions, streams (which have apperead on these two web-sites).
 ____
-`The code` is provided ib this repositories, thank you for your attention!
+`The code` is provided in this repositories, thank you for your attention!
 See ya!
